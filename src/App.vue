@@ -10,27 +10,27 @@
             <div class="login-form__input px-32 ">
               <form>
                 <div class="mb-8">
-                  <label class="mb-2 text-xl text-blue-darker">Name</label>
-                  <input type="text" class="h-12 w-full bg-grey-lighter"/>
+                  <label class="mb-2 text-lg text-blue-darker">Name</label>
+                  <input type="text" class="h-12 w-full bg-grey-lighter rounded-sm appearance-none focus:outline-none focus:shadow-outline"/>
                 </div>
                 <div class="mb-8">
-                  <label class="mb-2 text-xl text-blue-darker">Email</label>
-                  <input type="text" class="h-12 w-full bg-grey-lighter"/>
+                  <label class="mb-2 text-lg text-blue-darker">Email</label>
+                  <input type="text" class="h-12 w-full bg-grey-lighter rounded-sm appearance-none focus:outline-none focus:shadow-outline"/>
                 </div>
                 <div class="mb-8">
-                  <label class="mb-2 text-xl text-blue-darker">Username</label>
-                  <input type="text" class="h-12 w-full bg-grey-lighter"/>
+                  <label class="mb-2 text-lg text-blue-darker">Username</label>
+                  <input type="text" class="h-12 w-full bg-grey-lighter rounded-sm appearance-none focus:outline-none focus:shadow-outline"/>
                 </div>
                 <div class="mb-8">
-                  <label class="mb-2 text-xl text-blue-darker">Password</label>
-                  <input type="text" class="h-12 w-full bg-grey-lighter"/>
+                  <label class="mb-2 text-lg text-blue-darker">Password</label>
+                  <input type="text" class="h-12 w-full bg-grey-lighter rounded-sm appearance-none focus:outline-none focus:shadow-outline"/>
                 </div>
                 <div>
                   <input type="checkbox"/>
                   <p class="ml-2 text-grey">I accept the terms and conditions</p>
                 </div>
                 <div>
-                  <button class="w-full mt-4 bg-blue-dark h-10 text-white hover:bg-blue-light hover:text-grey-light hover:border-blue-dark transition transition-slow transition-property-all transition-timing-linear">Signup</button>
+                  <button class="w-full rounded-lg mt-4 bg-blue-dark h-10 text-white hover:bg-blue-light hover:text-grey-light hover:border-blue-dark transition transition-slow transition-property-all transition-timing-linear">Signup</button>
                 </div>
               </form>
               

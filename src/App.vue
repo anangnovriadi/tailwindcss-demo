@@ -2,12 +2,14 @@
   <div id="app" class="flex justify-center items-center w-full min-h-screen">
     <div class="login-container shadow-lg rounded-lg w-3/5">
       <div class="float-right">
-        <font-awesome-icon size="3x" icon="times" class=" m-4"/>
+        <a href="#" class="text-blue-darker">
+          <font-awesome-icon size="3x" icon="times" class=" m-4"/>
+        </a>
       </div>
-      <div class="login-curve rounded-lg bg-white h-full w-3/5">
-        <div class="login-form">
+      <div class="rounded-lg bg-white h-full w-3/5">
+        <div>
             <h1 class="p-16 text-blue-darker text-4xl">Sign up</h1>
-            <div class="login-form__input px-32 ">
+            <div class="px-32 ">
               <form>
                 <div class="mb-8">
                   <label class="mb-2 text-lg text-blue-darker">Name</label>
